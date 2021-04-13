@@ -16,7 +16,7 @@ for i in range(10):
 	print(f'{i} is less than {j}')
 ```
 
-Run c.py to find out!
+Run c.py ('python3 c.py') to find out!
 
 What does this code do?
 
@@ -30,7 +30,7 @@ for number in numbers:
 print(f's is {s}')
 ```
 
-Run s.py to find out!
+Run s.py ('python3 s.py') to find out!
 
 What does this code do?
 
@@ -45,7 +45,7 @@ a = s / len(numbers)
 print(f'a is {a}')
 ```
 
-Run a.py to find out!
+Run a.py ('python3 a.py') to find out!
 
 What does this code do?
 
@@ -58,7 +58,7 @@ r = x - i
 print (f'r is {r}')
 ```
 
-Run r.py to find out!
+Run r.py ('python3 r.py') to find out!
 
 What does this code do?
 
@@ -79,7 +79,7 @@ for number in numbers:
 print(f'results: {results}')
 ```
 
-Run o.py to find out!
+Run o.py ('python3 o.py') to find out!
 
 What does this code do?
 
@@ -100,7 +100,7 @@ for word in words:
 print(f'results: {results}')
 ```
 
-Run o2.py to find out!
+Run o2.py ('python3 o2.py') to find out!
 
 What does this code do?
 
@@ -126,5 +126,5 @@ numbers = o([5, 12, 7, 9, 6, 4])
 print(f'number results: {numbers}')
 ```
 
-Run o3.py to find out!
+Run o3.py ('python3 o3.py') to find out!
 
